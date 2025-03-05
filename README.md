@@ -1,6 +1,6 @@
 # Codepaces Setup
 1) Click to the green `Code` button of the Github repo as shown below:
-![alt text](codespaces_icon.jpg "Where to click.")
+![alt text](images/codespaces_image.jpg "Where to click.")
 2) Click `Create codespace on main`.
 3) Wait for container to boot.
 4) Install the `Python` and `Jupyter` extensions under the `Recommended` tab of the `Extensions` tab on the left.
