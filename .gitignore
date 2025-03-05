@@ -1,2 +1,3 @@
 /.venv
-notebook.ipynb
+notebooks/answer_key.ipynb
+data/healthcare_noshows.csv
